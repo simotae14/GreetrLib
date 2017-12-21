@@ -1,5 +1,5 @@
 // IIFE
-(function (global, $) {
+;(function (global, $) {
   // funzione che crea saluto
   // 'new' di un oggetto
   var Greetr = function (firstName, lastName, language) {
